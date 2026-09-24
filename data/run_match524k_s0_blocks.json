@@ -1,0 +1,111 @@
+{
+ "arm": "MATCH",
+ "dose_V": 524288,
+ "seed": 0,
+ "SE_L": 0.00814,
+ "gate": 0.01628,
+ "passage": 131072,
+ "bundle_sha256": "ecaff604dfcdc8f39a81dc82f0a4135db6cc7b3de96e4e757b7c7b4bf54b5683",
+ "w0_tree_sha256": "d1e0686173351832079e128d37c4f4be30544e655f376c41fd3e921bfaeb9178",
+ "area_unit": "(nats/token)^2",
+ "t0": {
+  "nll_chess": 0.6284722872078419,
+  "nll_stories": 0.924871978305635
+ },
+ "final": {
+  "nll_chess": 0.5993776456452906,
+  "nll_stories": 0.917185262082115
+ },
+ "net_chess": -0.02909464156255126,
+ "net_stories": -0.007686716223519907,
+ "blocks": [
+  {
+   "cycle": 0,
+   "nll_chess_start": 0.6284722872078419,
+   "nll_chess_end": 0.6229114923626184,
+   "nll_stories_start": 0.924871978305635,
+   "nll_stories_end": 0.8789838088883294,
+   "D_chess": -0.005560794845223427,
+   "D_stories": -0.04588816941730556,
+   "signed_area_nats_per_token2": -7.098672788633828e-05,
+   "area_note": "secondary trajectory descriptor only; MATCH has no excursion/return legs"
+  },
+  {
+   "cycle": 1,
+   "nll_chess_start": 0.6229114923626184,
+   "nll_chess_end": 0.6151235373690724,
+   "nll_stories_start": 0.8789838088883294,
+   "nll_stories_end": 0.8767855072778369,
+   "D_chess": -0.007787954993546009,
+   "D_stories": -0.0021983016104925035,
+   "signed_area_nats_per_token2": 0.0006111700709232897,
+   "area_note": "secondary trajectory descriptor only; MATCH has no excursion/return legs"
+  },
+  {
+   "cycle": 2,
+   "nll_chess_start": 0.6151235373690724,
+   "nll_chess_end": 0.6262428313493729,
+   "nll_stories_start": 0.8767855072778369,
+   "nll_stories_end": 0.8904537549094548,
+   "D_chess": 0.011119293980300426,
+   "D_stories": 0.013668247631617891,
+   "signed_area_nats_per_token2": 0.0004775850287413762,
+   "area_note": "secondary trajectory descriptor only; MATCH has no excursion/return legs"
+  },
+  {
+   "cycle": 3,
+   "nll_chess_start": 0.6262428313493729,
+   "nll_chess_end": 0.6147288894280791,
+   "nll_stories_start": 0.8904537549094548,
+   "nll_stories_end": 0.8712029040805878,
+   "D_chess": -0.011513941921293736,
+   "D_stories": -0.019250850828867017,
+   "signed_area_nats_per_token2": -0.0004628956781121995,
+   "area_note": "secondary trajectory descriptor only; MATCH has no excursion/return legs"
+  },
+  {
+   "cycle": 4,
+   "nll_chess_start": 0.6147288894280791,
+   "nll_chess_end": 0.6864471947774291,
+   "nll_stories_start": 0.8712029040805878,
+   "nll_stories_end": 0.884581226205069,
+   "D_chess": 0.07171830534934998,
+   "D_stories": 0.013378322124481201,
+   "signed_area_nats_per_token2": -0.0014033374527885562,
+   "area_note": "secondary trajectory descriptor only; MATCH has no excursion/return legs"
+  },
+  {
+   "cycle": 5,
+   "nll_chess_start": 0.6864471947774291,
+   "nll_chess_end": 0.6032555801793933,
+   "nll_stories_start": 0.884581226205069,
+   "nll_stories_end": 0.9137489161794148,
+   "D_chess": -0.08319161459803581,
+   "D_stories": 0.029167689974345823,
+   "signed_area_nats_per_token2": -0.003118725135461826,
+   "area_note": "secondary trajectory descriptor only; MATCH has no excursion/return legs"
+  },
+  {
+   "cycle": 6,
+   "nll_chess_start": 0.6032555801793933,
+   "nll_chess_end": 0.6027519530616701,
+   "nll_stories_start": 0.9137489161794148,
+   "nll_stories_end": 0.8784661548478263,
+   "D_chess": -0.0005036271177232265,
+   "D_stories": -0.035282761331588475,
+   "signed_area_nats_per_token2": 0.0003188622521567349,
+   "area_note": "secondary trajectory descriptor only; MATCH has no excursion/return legs"
+  },
+  {
+   "cycle": 7,
+   "nll_chess_start": 0.6027519530616701,
+   "nll_chess_end": 0.5993776456452906,
+   "nll_stories_start": 0.8784661548478263,
+   "nll_stories_end": 0.917185262082115,
+   "D_chess": -0.0033743074163794518,
+   "D_stories": 0.03871910723428873,
+   "signed_area_nats_per_token2": 0.00039656897230893424,
+   "area_note": "secondary trajectory descriptor only; MATCH has no excursion/return legs"
+  }
+ ]
+}

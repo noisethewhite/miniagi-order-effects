@@ -1,0 +1,135 @@
+22:19:55 working bundle sha256 ecaff604dfcdc8f39a81dc82f0a4135db6cc7b3de96e4e757b7c7b4bf54b5683 -> /workspace/exp/run_match524k_s0_bundle_sha256.json
+22:19:59 W0 source tree d1e0686173351832079e128d37c4f4be30544e655f376c41fd3e921bfaeb9178; run copy tree d1e0686173351832079e128d37c4f4be30544e655f376c41fd3e921bfaeb9178
+22:20:01 chunk-ownership regression PASS: chess=64, stories=63
+22:20:01 t0 probe (before any MATCH data)
+22:20:49    t0 nll chess 0.62847 stories 0.92487 invariant True
+22:20:49 [1/64] cycle 0 mixed read 0 :: train.py read
+22:23:08    nll chess 0.63710 stories 0.86560 experts 85 ctxnow 2444 scale 1.0000 | train 90s (read 42s) probe 49s
+22:23:08 [2/64] cycle 0 mixed read 1 :: train.py read
+22:25:23    nll chess 0.62355 stories 0.89945 experts 85 ctxnow 2444 scale 1.0000 | train 86s (read 42s) probe 49s
+22:25:23 [3/64] cycle 0 mixed read 2 :: train.py read
+22:27:39    nll chess 0.62194 stories 0.88828 experts 85 ctxnow 2444 scale 1.0000 | train 87s (read 42s) probe 49s
+22:27:39 [4/64] cycle 0 mixed read 3 :: train.py read
+22:29:55    nll chess 0.62486 stories 0.87237 experts 85 ctxnow 2444 scale 1.0000 | train 87s (read 42s) probe 49s
+22:29:55 [5/64] cycle 0 mixed read 4 :: train.py read
+22:32:10    nll chess 0.62133 stories 0.87541 experts 85 ctxnow 2444 scale 1.0000 | train 87s (read 42s) probe 49s
+22:32:10 [6/64] cycle 0 mixed read 5 :: train.py read
+22:34:27    nll chess 0.64250 stories 0.86257 experts 85 ctxnow 2444 scale 1.0000 | train 87s (read 42s) probe 49s
+22:34:27 [7/64] cycle 0 mixed read 6 :: train.py read
+22:36:41    nll chess 0.63129 stories 0.88176 experts 85 ctxnow 2444 scale 1.0000 | train 86s (read 42s) probe 48s
+22:36:41 [8/64] cycle 0 mixed read 7 :: train.py read
+22:38:56    nll chess 0.62291 stories 0.87898 experts 85 ctxnow 2444 scale 1.0000 | train 87s (read 42s) probe 49s
+22:38:56 [9/64] cycle 1 mixed read 0 :: train.py read
+22:41:11    nll chess 0.61967 stories 0.87205 experts 85 ctxnow 2444 scale 1.0000 | train 87s (read 42s) probe 49s
+22:41:11 [10/64] cycle 1 mixed read 1 :: train.py read
+22:43:27    nll chess 0.64673 stories 0.87979 experts 85 ctxnow 2444 scale 1.0000 | train 87s (read 42s) probe 49s
+22:43:27 [11/64] cycle 1 mixed read 2 :: train.py read
+22:45:43    nll chess 0.62118 stories 0.92969 experts 85 ctxnow 2444 scale 1.0000 | train 88s (read 42s) probe 49s
+22:45:43 [12/64] cycle 1 mixed read 3 :: train.py read
+22:48:00    nll chess 0.61762 stories 0.91562 experts 85 ctxnow 2444 scale 1.0000 | train 88s (read 42s) probe 49s
+22:48:00 [13/64] cycle 1 mixed read 4 :: train.py read
+22:50:15    nll chess 0.61913 stories 0.94694 experts 85 ctxnow 2444 scale 1.0000 | train 87s (read 42s) probe 48s
+22:50:15 [14/64] cycle 1 mixed read 5 :: train.py read
+22:52:31    nll chess 0.63198 stories 0.86208 experts 85 ctxnow 2444 scale 1.0000 | train 87s (read 42s) probe 49s
+22:52:31 [15/64] cycle 1 mixed read 6 :: train.py read
+22:54:46    nll chess 0.64160 stories 0.88753 experts 85 ctxnow 2444 scale 1.0000 | train 86s (read 42s) probe 48s
+22:54:46 [16/64] cycle 1 mixed read 7 :: train.py read
+22:57:03    nll chess 0.61512 stories 0.87679 experts 86 ctxnow 2444 scale 1.0000 | train 88s (read 42s) probe 49s
+22:57:03 [17/64] cycle 2 mixed read 0 :: train.py read
+22:59:18    nll chess 0.63874 stories 0.88306 experts 86 ctxnow 2444 scale 1.0000 | train 87s (read 42s) probe 49s
+22:59:18 [18/64] cycle 2 mixed read 1 :: train.py read
+23:01:35    nll chess 0.61722 stories 0.91699 experts 86 ctxnow 2444 scale 1.0000 | train 87s (read 42s) probe 49s
+23:01:35 [19/64] cycle 2 mixed read 2 :: train.py read
+23:03:51    nll chess 0.61277 stories 0.93467 experts 86 ctxnow 2444 scale 1.0000 | train 87s (read 42s) probe 49s
+23:03:51 [20/64] cycle 2 mixed read 3 :: train.py read
+23:06:07    nll chess 0.61266 stories 0.88452 experts 86 ctxnow 2444 scale 1.0000 | train 87s (read 42s) probe 49s
+23:06:07 [21/64] cycle 2 mixed read 4 :: train.py read
+23:08:24    nll chess 0.61419 stories 0.90333 experts 86 ctxnow 2444 scale 1.0000 | train 88s (read 42s) probe 49s
+23:08:24 [22/64] cycle 2 mixed read 5 :: train.py read
+23:10:40    nll chess 0.62764 stories 0.88675 experts 86 ctxnow 2444 scale 1.0000 | train 87s (read 42s) probe 48s
+23:10:40 [23/64] cycle 2 mixed read 6 :: train.py read
+23:12:56    nll chess 0.62946 stories 0.89487 experts 86 ctxnow 2444 scale 1.0000 | train 87s (read 42s) probe 49s
+23:12:56 [24/64] cycle 2 mixed read 7 :: train.py read
+23:15:13    nll chess 0.62624 stories 0.89045 experts 86 ctxnow 2444 scale 1.0000 | train 88s (read 42s) probe 49s
+23:15:13 [25/64] cycle 3 mixed read 0 :: train.py read
+23:17:30    nll chess 0.62592 stories 0.85417 experts 86 ctxnow 2444 scale 1.0000 | train 88s (read 42s) probe 49s
+23:17:30 [26/64] cycle 3 mixed read 1 :: train.py read
+23:19:45    nll chess 0.61083 stories 0.89438 experts 86 ctxnow 2444 scale 1.0000 | train 87s (read 42s) probe 49s
+23:19:45 [27/64] cycle 3 mixed read 2 :: train.py read
+23:22:02    nll chess 0.61395 stories 0.93154 experts 86 ctxnow 2444 scale 1.0000 | train 87s (read 42s) probe 49s
+23:22:02 [28/64] cycle 3 mixed read 3 :: train.py read
+23:24:18    nll chess 0.61328 stories 0.88181 experts 86 ctxnow 2444 scale 1.0000 | train 88s (read 42s) probe 49s
+23:24:18 [29/64] cycle 3 mixed read 4 :: train.py read
+23:26:33    nll chess 0.62778 stories 0.88260 experts 86 ctxnow 2444 scale 1.0000 | train 87s (read 42s) probe 49s
+23:26:33 [30/64] cycle 3 mixed read 5 :: train.py read
+23:28:49    nll chess 0.62587 stories 0.85281 experts 86 ctxnow 2444 scale 1.0000 | train 87s (read 42s) probe 48s
+23:28:49 [31/64] cycle 3 mixed read 6 :: train.py read
+23:31:09    nll chess 0.62406 stories 0.85154 experts 87 ctxnow 2444 scale 1.0000 | train 92s (read 48s) probe 48s
+23:31:09 [32/64] cycle 3 mixed read 7 :: train.py read
+23:33:30    nll chess 0.61473 stories 0.87120 experts 87 ctxnow 2444 scale 1.0000 | train 92s (read 48s) probe 49s
+23:33:30 [33/64] cycle 4 mixed read 0 :: train.py read
+23:35:51    nll chess 0.61323 stories 0.87350 experts 87 ctxnow 2444 scale 1.0000 | train 92s (read 48s) probe 49s
+23:35:51 [34/64] cycle 4 mixed read 1 :: train.py read
+23:38:13    nll chess 0.62470 stories 0.84463 experts 87 ctxnow 2444 scale 1.0000 | train 93s (read 48s) probe 49s
+23:38:13 [35/64] cycle 4 mixed read 2 :: train.py read
+23:40:32    nll chess 0.60925 stories 0.91060 experts 87 ctxnow 2444 scale 1.0000 | train 91s (read 48s) probe 48s
+23:40:32 [36/64] cycle 4 mixed read 3 :: train.py read
+23:42:52    nll chess 0.63084 stories 0.85136 experts 87 ctxnow 2444 scale 1.0000 | train 91s (read 48s) probe 48s
+23:42:52 [37/64] cycle 4 mixed read 4 :: train.py read
+23:45:11    nll chess 0.61124 stories 0.89890 experts 87 ctxnow 2444 scale 1.0000 | train 91s (read 48s) probe 49s
+23:45:11 [38/64] cycle 4 mixed read 5 :: train.py read
+23:47:32    nll chess 0.63626 stories 0.87114 experts 87 ctxnow 2444 scale 1.0000 | train 91s (read 48s) probe 49s
+23:47:32 [39/64] cycle 4 mixed read 6 :: train.py read
+23:49:52    nll chess 0.60857 stories 0.91589 experts 87 ctxnow 2444 scale 1.0000 | train 90s (read 48s) probe 49s
+23:49:52 [40/64] cycle 4 mixed read 7 :: train.py read
+23:52:12    nll chess 0.68645 stories 0.88458 experts 87 ctxnow 2444 scale 1.0000 | train 91s (read 48s) probe 49s
+23:52:12 [41/64] cycle 5 mixed read 0 :: train.py read
+23:54:32    nll chess 0.62216 stories 0.84864 experts 87 ctxnow 2444 scale 1.0000 | train 91s (read 48s) probe 49s
+23:54:32 [42/64] cycle 5 mixed read 1 :: train.py read
+23:56:53    nll chess 0.60970 stories 0.91332 experts 87 ctxnow 2444 scale 1.0000 | train 92s (read 48s) probe 49s
+23:56:53 [43/64] cycle 5 mixed read 2 :: train.py read
+23:59:13    nll chess 0.62690 stories 0.86985 experts 87 ctxnow 2444 scale 1.0000 | train 91s (read 48s) probe 49s
+23:59:13 [44/64] cycle 5 mixed read 3 :: train.py read
+00:01:32    nll chess 0.62360 stories 0.84559 experts 87 ctxnow 2444 scale 1.0000 | train 91s (read 48s) probe 49s
+00:01:32 [45/64] cycle 5 mixed read 4 :: train.py read
+00:03:52    nll chess 0.60394 stories 0.86859 experts 87 ctxnow 2444 scale 1.0000 | train 91s (read 48s) probe 48s
+00:03:52 [46/64] cycle 5 mixed read 5 :: train.py read
+00:06:15    nll chess 0.60623 stories 0.91198 experts 88 ctxnow 2444 scale 1.0000 | train 94s (read 48s) probe 49s
+00:06:15 [47/64] cycle 5 mixed read 6 :: train.py read
+00:08:32    nll chess 0.62938 stories 0.88009 experts 88 ctxnow 2444 scale 1.0000 | train 89s (read 42s) probe 49s
+00:08:32 [48/64] cycle 5 mixed read 7 :: train.py read
+00:10:50    nll chess 0.60326 stories 0.91375 experts 88 ctxnow 2444 scale 1.0000 | train 89s (read 42s) probe 49s
+00:10:50 [49/64] cycle 6 mixed read 0 :: train.py read
+00:13:07    nll chess 0.62255 stories 0.87362 experts 88 ctxnow 2444 scale 1.0000 | train 88s (read 42s) probe 49s
+00:13:07 [50/64] cycle 6 mixed read 1 :: train.py read
+00:15:25    nll chess 0.62024 stories 0.89105 experts 88 ctxnow 2444 scale 1.0000 | train 89s (read 42s) probe 48s
+00:15:25 [51/64] cycle 6 mixed read 2 :: train.py read
+00:17:43    nll chess 0.62247 stories 0.88336 experts 88 ctxnow 2444 scale 1.0000 | train 89s (read 42s) probe 49s
+00:17:43 [52/64] cycle 6 mixed read 3 :: train.py read
+00:20:01    nll chess 0.60952 stories 0.92271 experts 88 ctxnow 2444 scale 1.0000 | train 90s (read 42s) probe 48s
+00:20:01 [53/64] cycle 6 mixed read 4 :: train.py read
+00:22:20    nll chess 0.61358 stories 0.88288 experts 88 ctxnow 2444 scale 1.0000 | train 89s (read 42s) probe 49s
+00:22:20 [54/64] cycle 6 mixed read 5 :: train.py read
+00:24:38    nll chess 0.62711 stories 0.88639 experts 88 ctxnow 2444 scale 1.0000 | train 89s (read 42s) probe 49s
+00:24:38 [55/64] cycle 6 mixed read 6 :: train.py read
+00:26:56    nll chess 0.60118 stories 0.91074 experts 88 ctxnow 2444 scale 1.0000 | train 89s (read 42s) probe 49s
+00:26:56 [56/64] cycle 6 mixed read 7 :: train.py read
+00:29:14    nll chess 0.60275 stories 0.87847 experts 88 ctxnow 2444 scale 1.0000 | train 89s (read 42s) probe 49s
+00:29:14 [57/64] cycle 7 mixed read 0 :: train.py read
+00:31:32    nll chess 0.62879 stories 0.84842 experts 88 ctxnow 2444 scale 1.0000 | train 89s (read 42s) probe 49s
+00:31:32 [58/64] cycle 7 mixed read 1 :: train.py read
+00:33:50    nll chess 0.61377 stories 0.84475 experts 88 ctxnow 2444 scale 1.0000 | train 89s (read 42s) probe 49s
+00:33:50 [59/64] cycle 7 mixed read 2 :: train.py read
+00:36:07    nll chess 0.60367 stories 0.88536 experts 88 ctxnow 2444 scale 1.0000 | train 89s (read 42s) probe 48s
+00:36:07 [60/64] cycle 7 mixed read 3 :: train.py read
+00:38:24    nll chess 0.61757 stories 0.84751 experts 88 ctxnow 2444 scale 1.0000 | train 89s (read 42s) probe 48s
+00:38:24 [61/64] cycle 7 mixed read 4 :: train.py read
+00:40:41    nll chess 0.61866 stories 0.84212 experts 88 ctxnow 2444 scale 1.0000 | train 89s (read 42s) probe 48s
+00:40:41 [62/64] cycle 7 mixed read 5 :: train.py read
+00:43:00    nll chess 0.62225 stories 0.84067 experts 89 ctxnow 2444 scale 1.0000 | train 90s (read 42s) probe 49s
+00:43:00 [63/64] cycle 7 mixed read 6 :: train.py read
+00:45:15    nll chess 0.61919 stories 0.88044 experts 89 ctxnow 2444 scale 1.0000 | train 86s (read 42s) probe 49s
+00:45:15 [64/64] cycle 7 mixed read 7 :: train.py read
+00:47:30    nll chess 0.59938 stories 0.91719 experts 89 ctxnow 2444 scale 1.0000 | train 86s (read 42s) probe 49s
+00:47:30 DONE; block summary -> run_match524k_s0_blocks.json; no automatic follow-up
+00:47:30 total wall 8849s

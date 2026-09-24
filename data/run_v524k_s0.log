@@ -1,0 +1,143 @@
+08:08:56 working bundle sha256 ec45e0288db6b68a4323e93e29b127d96c01c5fde85dfe95fe117a23fbfd9055 -> /workspace/exp/run_v524k_s0_bundle_sha256.json
+08:09:00 W0 source tree d1e0686173351832079e128d37c4f4be30544e655f376c41fd3e921bfaeb9178; run copy tree d1e0686173351832079e128d37c4f4be30544e655f376c41fd3e921bfaeb9178
+08:09:03 chunk-ownership regression PASS: chess=64, stories=63
+08:09:03 t0 probe (before any dose)
+08:09:59    t0 nll chess 0.62843 stories 0.92480 invariant True
+08:09:59 [1/64] cycle 0 leg chess subleg 0 :: train.py read
+08:12:33    nll chess 0.61967 stories 0.92619 experts 85 ctxnow 2444 scale 1.0000 | train 100s (read 48s) probe 55s
+08:12:33 [2/64] cycle 0 leg chess subleg 1 :: train.py read
+08:15:03    nll chess 0.61728 stories 0.92810 experts 85 ctxnow 2444 scale 1.0000 | train 95s (read 42s) probe 55s
+08:15:03 [3/64] cycle 0 leg chess subleg 2 :: train.py read
+08:17:31    nll chess 0.61843 stories 0.92726 experts 85 ctxnow 2444 scale 1.0000 | train 93s (read 42s) probe 55s
+08:17:31 [4/64] cycle 0 leg chess subleg 3 :: train.py read
+08:19:58    nll chess 0.61645 stories 0.94794 experts 85 ctxnow 2444 scale 1.0000 | train 92s (read 42s) probe 55s
+08:19:58 [5/64] cycle 0 leg stories subleg 0 :: train.py read
+08:22:27    nll chess 0.65354 stories 0.86229 experts 85 ctxnow 2444 scale 1.0000 | train 95s (read 42s) probe 54s
+08:22:27 [6/64] cycle 0 leg stories subleg 1 :: train.py read
+08:25:37    nll chess 0.65424 stories 0.91890 experts 85 ctxnow 2444 scale 1.0000 | train 136s (read 84s) probe 54s
+08:25:37 [7/64] cycle 0 leg stories subleg 2 :: train.py read
+08:28:08    nll chess 0.65953 stories 0.85808 experts 85 ctxnow 2444 scale 1.0000 | train 95s (read 42s) probe 55s
+08:28:08 [8/64] cycle 0 leg stories subleg 3 :: train.py read
+08:30:31    nll chess 0.66105 stories 0.87312 experts 85 ctxnow 2444 scale 1.0000 | train 93s (read 42s) probe 50s
+08:30:31 [9/64] cycle 1 leg chess subleg 0 :: train.py read
+08:33:05    nll chess 0.62024 stories 0.90184 experts 85 ctxnow 2444 scale 1.0000 | train 98s (read 42s) probe 56s
+08:33:05 [10/64] cycle 1 leg chess subleg 1 :: train.py read
+08:35:35    nll chess 0.61564 stories 0.90219 experts 85 ctxnow 2444 scale 1.0000 | train 94s (read 42s) probe 56s
+08:35:35 [11/64] cycle 1 leg chess subleg 2 :: train.py read
+08:38:05    nll chess 0.61550 stories 0.90284 experts 85 ctxnow 2444 scale 1.0000 | train 95s (read 42s) probe 55s
+08:38:05 [12/64] cycle 1 leg chess subleg 3 :: train.py read
+08:40:32    nll chess 0.61149 stories 0.90503 experts 85 ctxnow 2444 scale 1.0000 | train 92s (read 42s) probe 55s
+08:40:32 [13/64] cycle 1 leg stories subleg 0 :: train.py read
+08:43:01    nll chess 0.63648 stories 0.85235 experts 85 ctxnow 2444 scale 1.0000 | train 95s (read 42s) probe 55s
+08:43:01 [14/64] cycle 1 leg stories subleg 1 :: train.py read
+08:45:34    nll chess 0.63297 stories 0.87853 experts 85 ctxnow 2444 scale 1.0000 | train 97s (read 42s) probe 56s
+08:45:34 [15/64] cycle 1 leg stories subleg 2 :: train.py read
+08:48:08    nll chess 0.63572 stories 0.89630 experts 86 ctxnow 2444 scale 1.0000 | train 100s (read 42s) probe 55s
+08:48:08 [16/64] cycle 1 leg stories subleg 3 :: train.py read
+08:51:19    nll chess 0.64739 stories 0.94875 experts 86 ctxnow 2444 scale 1.0000 | train 134s (read 78s) probe 56s
+08:51:19 [17/64] cycle 2 leg chess subleg 0 :: train.py read
+08:53:49    nll chess 0.61853 stories 0.97041 experts 86 ctxnow 2444 scale 1.0000 | train 95s (read 42s) probe 55s
+08:53:49 [18/64] cycle 2 leg chess subleg 1 :: train.py read
+08:56:16    nll chess 0.61890 stories 0.96998 experts 86 ctxnow 2444 scale 1.0000 | train 93s (read 42s) probe 55s
+08:56:16 [19/64] cycle 2 leg chess subleg 2 :: train.py read
+08:58:46    nll chess 0.61536 stories 0.96956 experts 86 ctxnow 2444 scale 1.0000 | train 95s (read 42s) probe 55s
+08:58:46 [20/64] cycle 2 leg chess subleg 3 :: train.py read
+09:01:16    nll chess 0.61492 stories 0.97559 experts 86 ctxnow 2444 scale 1.0000 | train 94s (read 42s) probe 56s
+09:01:16 [21/64] cycle 2 leg stories subleg 0 :: train.py read
+09:03:38    nll chess 0.63350 stories 0.89809 experts 86 ctxnow 2444 scale 1.0000 | train 91s (read 42s) probe 51s
+09:03:38 [22/64] cycle 2 leg stories subleg 1 :: train.py read
+09:06:10    nll chess 0.63838 stories 0.89386 experts 86 ctxnow 2444 scale 1.0000 | train 96s (read 42s) probe 56s
+09:06:10 [23/64] cycle 2 leg stories subleg 2 :: train.py read
+09:08:54    nll chess 0.64226 stories 0.91450 experts 86 ctxnow 2444 scale 1.0000 | train 98s (read 42s) probe 66s
+09:08:54 [24/64] cycle 2 leg stories subleg 3 :: train.py read
+09:11:35    nll chess 0.64889 stories 0.86144 experts 86 ctxnow 2444 scale 1.0000 | train 102s (read 42s) probe 58s
+09:11:35 [25/64] cycle 3 leg chess subleg 0 :: train.py read
+09:14:17    nll chess 0.61990 stories 0.88879 experts 86 ctxnow 2444 scale 1.0000 | train 104s (read 42s) probe 58s
+09:42:21 working bundle sha256 ec45e0288db6b68a4323e93e29b127d96c01c5fde85dfe95fe117a23fbfd9055 -> /workspace/exp/run_v524k_s0_bundle_sha256.json
+09:42:25 W0 source tree d1e0686173351832079e128d37c4f4be30544e655f376c41fd3e921bfaeb9178; run copy tree 18cebd8c25747383c5c3d4b75142e996630c82b84832f36e5965e5942dee0baa
+09:42:25 HOLD: W0 tree hash mismatch source=d1e0686173351832079e128d37c4f4be30544e655f376c41fd3e921bfaeb9178 run=18cebd8c25747383c5c3d4b75142e996630c82b84832f36e5965e5942dee0baa expected=d1e0686173351832079e128d37c4f4be30544e655f376c41fd3e921bfaeb9178
+09:46:05 working bundle sha256 95da34ce4972562a04e4aa2ac4c52ee082142c5e9f8b3166ad35b2d53bbd217d -> /workspace/exp/run_v524k_s0_bundle_sha256.json
+09:46:09 W0 source tree d1e0686173351832079e128d37c4f4be30544e655f376c41fd3e921bfaeb9178; run copy tree 18cebd8c25747383c5c3d4b75142e996630c82b84832f36e5965e5942dee0baa
+09:46:09 resume: 25 sub-legs already in log
+09:46:09 resume: run weights are expected to differ from W0 after completed sub-legs
+09:46:11 chunk-ownership regression PASS: chess=64, stories=63
+09:46:11 [26/64] cycle 3 leg chess subleg 1 :: train.py read
+09:48:40    nll chess 0.61820 stories 0.88809 experts 86 ctxnow 2444 scale 1.0000 | train 94s (read 42s) probe 55s
+09:48:40 [27/64] cycle 3 leg chess subleg 2 :: train.py read
+09:51:09    nll chess 0.61819 stories 0.89294 experts 86 ctxnow 2444 scale 1.0000 | train 94s (read 42s) probe 54s
+09:51:09 [28/64] cycle 3 leg chess subleg 3 :: train.py read
+09:53:37    nll chess 0.61140 stories 0.90936 experts 86 ctxnow 2444 scale 1.0000 | train 93s (read 42s) probe 55s
+09:53:37 [29/64] cycle 3 leg stories subleg 0 :: train.py read
+09:56:14    nll chess 0.63343 stories 0.85239 experts 87 ctxnow 2444 scale 1.0000 | train 101s (read 48s) probe 56s
+09:56:14 [30/64] cycle 3 leg stories subleg 1 :: train.py read
+09:58:49    nll chess 0.63774 stories 0.84370 experts 87 ctxnow 2444 scale 1.0000 | train 99s (read 48s) probe 56s
+09:58:49 [31/64] cycle 3 leg stories subleg 2 :: train.py read
+10:01:25    nll chess 0.63624 stories 0.84278 experts 87 ctxnow 2444 scale 1.0000 | train 99s (read 48s) probe 56s
+10:01:25 [32/64] cycle 3 leg stories subleg 3 :: train.py read
+10:04:02    nll chess 0.64776 stories 0.89878 experts 87 ctxnow 2444 scale 1.0000 | train 101s (read 48s) probe 56s
+10:04:02 [33/64] cycle 4 leg chess subleg 0 :: train.py read
+10:06:37    nll chess 0.62464 stories 0.91229 experts 87 ctxnow 2444 scale 1.0000 | train 101s (read 48s) probe 54s
+10:06:37 [34/64] cycle 4 leg chess subleg 1 :: train.py read
+10:09:11    nll chess 0.61686 stories 0.90996 experts 87 ctxnow 2444 scale 1.0000 | train 99s (read 48s) probe 55s
+10:09:11 [35/64] cycle 4 leg chess subleg 2 :: train.py read
+10:11:43    nll chess 0.61293 stories 0.91638 experts 87 ctxnow 2444 scale 1.0000 | train 96s (read 48s) probe 55s
+10:11:43 [36/64] cycle 4 leg chess subleg 3 :: train.py read
+10:14:18    nll chess 0.61454 stories 0.92698 experts 87 ctxnow 2444 scale 1.0000 | train 99s (read 48s) probe 56s
+10:14:18 [37/64] cycle 4 leg stories subleg 0 :: train.py read
+10:16:53    nll chess 0.63359 stories 0.88633 experts 87 ctxnow 2444 scale 1.0000 | train 99s (read 48s) probe 56s
+10:16:53 [38/64] cycle 4 leg stories subleg 1 :: train.py read
+10:19:29    nll chess 0.64262 stories 0.84775 experts 87 ctxnow 2444 scale 1.0000 | train 100s (read 48s) probe 56s
+10:19:29 [39/64] cycle 4 leg stories subleg 2 :: train.py read
+10:22:05    nll chess 0.65259 stories 0.84156 experts 87 ctxnow 2444 scale 1.0000 | train 100s (read 48s) probe 55s
+10:22:05 [40/64] cycle 4 leg stories subleg 3 :: train.py read
+10:24:44    nll chess 0.65963 stories 0.90775 experts 87 ctxnow 2444 scale 1.0000 | train 103s (read 48s) probe 56s
+10:24:44 [41/64] cycle 5 leg chess subleg 0 :: train.py read
+10:27:21    nll chess 0.61265 stories 0.93692 experts 87 ctxnow 2444 scale 1.0000 | train 102s (read 48s) probe 55s
+10:27:21 [42/64] cycle 5 leg chess subleg 1 :: train.py read
+10:29:55    nll chess 0.61371 stories 0.92491 experts 87 ctxnow 2444 scale 1.0000 | train 99s (read 48s) probe 55s
+10:29:55 [43/64] cycle 5 leg chess subleg 2 :: train.py read
+10:32:28    nll chess 0.61097 stories 0.93637 experts 87 ctxnow 2444 scale 1.0000 | train 99s (read 48s) probe 54s
+10:32:28 [44/64] cycle 5 leg chess subleg 3 :: train.py read
+10:35:06    nll chess 0.60905 stories 0.94192 experts 88 ctxnow 2444 scale 1.0000 | train 102s (read 48s) probe 55s
+10:35:06 [45/64] cycle 5 leg stories subleg 0 :: train.py read
+10:37:36    nll chess 0.63131 stories 0.90929 experts 88 ctxnow 2444 scale 1.0000 | train 96s (read 42s) probe 55s
+10:37:36 [46/64] cycle 5 leg stories subleg 1 :: train.py read
+10:40:06    nll chess 0.63027 stories 0.85729 experts 88 ctxnow 2444 scale 1.0000 | train 95s (read 42s) probe 55s
+10:40:06 [47/64] cycle 5 leg stories subleg 2 :: train.py read
+10:42:35    nll chess 0.64537 stories 0.84427 experts 88 ctxnow 2444 scale 1.0000 | train 95s (read 42s) probe 54s
+10:42:35 [48/64] cycle 5 leg stories subleg 3 :: train.py read
+10:44:58    nll chess 0.64354 stories 0.86316 experts 88 ctxnow 2444 scale 1.0000 | train 95s (read 42s) probe 49s
+10:44:58 [49/64] cycle 6 leg chess subleg 0 :: train.py read
+10:47:25    nll chess 0.60925 stories 0.88826 experts 88 ctxnow 2444 scale 1.0000 | train 93s (read 42s) probe 54s
+10:47:25 [50/64] cycle 6 leg chess subleg 1 :: train.py read
+10:49:56    nll chess 0.61031 stories 0.88941 experts 88 ctxnow 2444 scale 1.0000 | train 95s (read 42s) probe 56s
+10:49:56 [51/64] cycle 6 leg chess subleg 2 :: train.py read
+10:52:35    nll chess 0.60696 stories 0.89097 experts 88 ctxnow 2444 scale 1.0000 | train 100s (read 48s) probe 58s
+10:52:35 [52/64] cycle 6 leg chess subleg 3 :: train.py read
+10:55:11    nll chess 0.60558 stories 0.89597 experts 88 ctxnow 2444 scale 1.0000 | train 99s (read 42s) probe 58s
+10:55:11 [53/64] cycle 6 leg stories subleg 0 :: train.py read
+10:57:48    nll chess 0.61935 stories 0.90445 experts 88 ctxnow 2444 scale 1.0000 | train 99s (read 42s) probe 58s
+10:57:48 [54/64] cycle 6 leg stories subleg 1 :: train.py read
+11:00:25    nll chess 0.62179 stories 0.88013 experts 88 ctxnow 2444 scale 1.0000 | train 99s (read 42s) probe 58s
+11:00:25 [55/64] cycle 6 leg stories subleg 2 :: train.py read
+11:03:04    nll chess 0.62696 stories 0.92204 experts 88 ctxnow 2444 scale 1.0000 | train 100s (read 42s) probe 59s
+11:03:04 [56/64] cycle 6 leg stories subleg 3 :: train.py read
+11:05:44    nll chess 0.63100 stories 0.85331 experts 88 ctxnow 2444 scale 1.0000 | train 101s (read 42s) probe 59s
+11:05:44 [57/64] cycle 7 leg chess subleg 0 :: train.py read
+11:08:21    nll chess 0.61492 stories 0.87699 experts 88 ctxnow 2444 scale 1.0000 | train 101s (read 48s) probe 57s
+11:08:21 [58/64] cycle 7 leg chess subleg 1 :: train.py read
+11:11:00    nll chess 0.60700 stories 0.88062 experts 88 ctxnow 2444 scale 1.0000 | train 101s (read 48s) probe 58s
+11:11:00 [59/64] cycle 7 leg chess subleg 2 :: train.py read
+11:13:34    nll chess 0.60747 stories 0.88090 experts 88 ctxnow 2444 scale 1.0000 | train 98s (read 42s) probe 56s
+11:13:34 [60/64] cycle 7 leg chess subleg 3 :: train.py read
+11:16:10    nll chess 0.60462 stories 0.88738 experts 89 ctxnow 2444 scale 1.0000 | train 102s (read 48s) probe 55s
+11:16:10 [61/64] cycle 7 leg stories subleg 0 :: train.py read
+11:19:13    nll chess 0.63129 stories 0.88979 experts 89 ctxnow 2444 scale 1.0000 | train 134s (read 84s) probe 49s
+11:19:13 [62/64] cycle 7 leg stories subleg 1 :: train.py read
+11:21:40    nll chess 0.64369 stories 0.89200 experts 89 ctxnow 2444 scale 1.0000 | train 91s (read 42s) probe 55s
+11:21:40 [63/64] cycle 7 leg stories subleg 2 :: train.py read
+11:24:11    nll chess 0.64033 stories 0.84773 experts 89 ctxnow 2444 scale 1.0000 | train 95s (read 42s) probe 56s
+11:24:11 [64/64] cycle 7 leg stories subleg 3 :: train.py read
+11:26:48    nll chess 0.64935 stories 0.83628 experts 89 ctxnow 2444 scale 1.0000 | train 99s (read 42s) probe 59s
+11:26:48 DONE; cycle summary -> run_v524k_s0_cycles.json; no automatic follow-up
+11:26:48 total wall 6037s
